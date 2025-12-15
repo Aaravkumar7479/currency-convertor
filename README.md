@@ -33,7 +33,7 @@ Access it here:   [Currency convertor](https://currency-convertor-chi.vercel.app
 2. Enter the amount you want to convert.
 3. Select the source currency.
 4. Select the target currency.
-5. Click the ** Convert now ** button.
+5. Click the **Convert now** button.
 6. View the converted amount instantly.
 
     
