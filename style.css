@@ -10,10 +10,15 @@ body{
     display:flex;
     justify-content:center;
     align-items:center;
-    background-color:#1B2A41;
+    background-image:url(https://img.freepik.com/premium-vector/money-transfer-money-transaction-global-currency-network-stock-exchange-business-concept_42421-1317.jpg?semt=ais_hybrid&w=740&q=80);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment:fixed;
 }
 .container{
-    background-color:white;
+    background :linear-gradient(45deg ,rgba(252, 207, 58, 0.966),rgba(136, 38, 75, 0.986));
+
     padding:2rem;
     border-radius:1rem;
     min-height:45vh;
@@ -59,7 +64,7 @@ form p{
     /* background-color: red; */
     width:6rem;
     border-radius:0.5rem;
-    border:1px solid lightgrey;
+    border:1px solid rgba(0, 0, 0, 0.685);
     cursor:grab;
 
 }
@@ -77,11 +82,14 @@ form p{
 }
 form button{
     height:3rem;
-    background-color:#90BE6D;
+    background-color:#4a9412e3;
     color:white;
     font-size:1.15rem;
     cursor:pointer;
 
+}
+form button:hover{
+    transform:scale(0.9)
 }
 .msg{
     font-weight:bolder;
