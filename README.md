@@ -24,7 +24,7 @@ real-time exchange rates. It provides quick, accurate, and user-friendly currenc
 ---
 ## 🌐 Deployment
 The project is deployed on **Vercel**.  
-Access it here:   [Currency convertor](currency-convertor-chi.vercel.app)
+Access it here:   [Currency convertor](https://currency-convertor-chi.vercel.app)
 
 ---
 
